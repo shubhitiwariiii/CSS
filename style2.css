@@ -1,0 +1,49 @@
+/* h3{
+    background-color:palegreen;
+} */
+ /* Practice ques */
+/* * {
+    font-family: 'Courier New';
+}
+
+h1 {
+    color: #1b74e4 !important
+}
+
+#searchbtn {
+    background-color: black;
+    color: white;
+} */
+
+/* #login,
+#register {
+    background-color: aqua;
+} */
+/* .userbtn {
+    background-color: aqua;
+}
+h1{
+    color: brown;
+} */
+
+
+
+/* inheritance */
+div{
+    background-color: peachpuff;
+}
+h1{
+    background-color: cadetblue ;
+}
+/* form{
+    background-color: chartreuse;
+} */
+ input{
+    background-color: inherit ;
+ }
+ button{
+    background-color: inherit;
+ }
+ button:hover{
+    background-color: brown;
+ }

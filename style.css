@@ -1,0 +1,225 @@
+/* h1 {
+    color: rgb(207, 52, 104);
+    background-color: aliceblue;
+    color: #ffffff;
+    background-color:#000000;
+} */
+/* h2{
+    color:orange;
+}
+p{
+    color:wheat;
+     background-color:black;
+}
+button{
+    color:white;
+     background-color:blue;
+} */
+
+
+
+
+
+
+/* 
+h1 {
+    text-align: center;
+    text-decoration: underline;
+     font-size: 40px;
+     font-family: serif;
+    border: solid;
+    width: 50%;
+} */
+
+/* p {
+    text-align: start;
+    line-height: 1.8;
+    font-size: 24px;
+    font-family: sans-serif;
+
+} */
+
+/* h2 {
+    font-weight: 800;
+    text-align: start;
+    letter-spacing: 5px ;
+    text-decoration: underline;
+    text-decoration-style: solid;
+    text-decoration-color: blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+} */
+
+/* h3 {
+    text-align: start;
+    text-decoration: line-through;
+}a{
+    text-decoration: none ;
+}   */
+
+
+
+
+
+/* practice ques */
+
+/* h1 {
+    color: #ffa511;
+    text-align: center;
+    text-decoration: double underline;
+    text-decoration-color: teal;
+    font-size: 50px;
+    font-weight: 900;
+    font-family: league spartan;
+    line-height: 1.5;
+    letter-spacing: 2px ;
+    text-transform: uppercase;
+    
+} */
+
+
+
+/* 
+* {
+    font-family: "Courier new";
+    /* background-color: peachpuff; */
+    /* border-top-color: cadetblue;
+    border-bottom-color: cadetblue; */
+/* } */
+
+/* h3{
+    color:brown;
+} */
+/* h1{
+    color: brown;
+} */
+/* h1,
+h3 {
+    color: brown;
+}
+
+#login {
+    background-color: beige;
+}
+
+#signup {
+    background-color: blue;
+    color: white;
+}
+.upvote{
+    color:white ;
+    background-color: brown;
+}
+#myId p{
+    color:rgb(1, 71, 18);
+} */ 
+
+
+/* descendant selector */
+/* .post a{
+    color:white ;
+    background-color: darkgreen;
+}
+nav ul li a{
+    color:darkgreen;
+}
+p+h3{
+    color:brown;
+    text-decoration: underline;
+}
+.upvote + button{
+    background-color: cadetblue;
+    color: white;
+}
+div>input{
+    background-color:maroon;
+    color: white;
+}
+input[type="text"]{
+    color:wheat;
+}
+input[type="text"]{
+    color:whitesmoke;
+} 
+
+button:hover{
+    background-color: black;
+    color:white;
+}
+h3:hover{
+    text-decoration: none;
+}
+button:active{
+    background-color:hotpink;
+    color: black;
+}
+p:active{
+    font-weight: bold;
+    color: green;
+}
+input[type="radio"]:checked + label{
+    color: brown;
+    font-weight: bold;
+}
+div:nth-of-type(n){
+background-color:  blanchedalmond ;
+}
+h1::first-letter{
+    color: black;
+}
+div::first-line{
+    color:brown;
+}
+p::selection{
+    background-color: chartreuse;
+}
+h3{
+    background-color: blue;
+}
+h3{
+    background-color:yellow;
+} */
+
+
+
+
+
+
+/* practice ques 02 */
+
+/* h1{
+    color: pink;
+}
+#Greet{
+    color: yellow;
+}
+.myClass{
+    color:brown;
+}
+div p{
+    background-color: black;
+}
+.para{
+    background-color: blue;
+}
+p{
+    background-color: green;
+}
+div.greetDiv.greet{
+    color: green;
+}
+.greetDiv p.greet{
+    color: blue;
+}
+.greetDiv .greet{
+    color: red;
+} */
+
+
+
+
+
+
+
+
+
+
